@@ -1,0 +1,9 @@
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\bin\Debug\netcoreapp2.1\BookMyRoomCommonLayer.deps.json
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\bin\Debug\netcoreapp2.1\BookMyRoomCommonLayer.dll
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\bin\Debug\netcoreapp2.1\BookMyRoomCommonLayer.pdb
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\obj\Debug\netcoreapp2.1\BookMyRoomCommonLayer.csproj.CoreCompileInputs.cache
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\obj\Debug\netcoreapp2.1\BookMyRoomCommonLayer.AssemblyInfoInputs.cache
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\obj\Debug\netcoreapp2.1\BookMyRoomCommonLayer.AssemblyInfo.cs
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\obj\Debug\netcoreapp2.1\BookMyRoomCommonLayer.dll
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\obj\Debug\netcoreapp2.1\BookMyRoomCommonLayer.pdb
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomCommonLayer\obj\Debug\netcoreapp2.1\BookMyRoomCommonLayer.csprojAssemblyReference.cache

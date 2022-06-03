@@ -1,0 +1,14 @@
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\bin\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.deps.json
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\bin\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.runtimeconfig.json
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\bin\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.runtimeconfig.dev.json
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\bin\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.dll
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\bin\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.pdb
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\bin\Debug\netcoreapp2.1\BookMyRoomCommonLayer.dll
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\bin\Debug\netcoreapp2.1\BookMyRoomCommonLayer.pdb
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\obj\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.csprojAssemblyReference.cache
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\obj\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.csproj.CoreCompileInputs.cache
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\obj\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.AssemblyInfoInputs.cache
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\obj\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.AssemblyInfo.cs
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\obj\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.csproj.CopyComplete
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\obj\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.dll
+D:\dotNet-experiment-bookmyroom\BookMyRoomAPI\BookMyRoomRepositoryLayer\obj\Debug\netcoreapp2.1\BookMyRoomRepositoryLayer.pdb
